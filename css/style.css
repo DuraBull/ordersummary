@@ -1,5 +1,5 @@
 body {
-  font-family: 'Red Hat Display', sans-serif;
+  font-family: "Red Hat Display", sans-serif;
   background-image: url("../images/pattern-background-desktop.svg");
   background-repeat: no-repeat;
   background-size: 1944px;
@@ -29,9 +29,9 @@ strong {
   padding-bottom: 25px;
 }
 .hero {
-width: 400px;
-border-top-left-radius: 20px;
-border-top-right-radius: 20px;
+  width: 400px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
 }
 .summary-desc {
   margin-left: auto;
@@ -58,7 +58,7 @@ border-top-right-radius: 20px;
 .plan-type {
   grid-column: 1/4;
   grid-row: 1;
-  line-height: .5em;
+  line-height: 0.5em;
   text-align: center;
   margin: auto;
   padding-left: 3em;
@@ -67,10 +67,10 @@ border-top-right-radius: 20px;
   grid-column: 4;
   grid-row: 1;
   text-align: right;
-  margin: auto .5em;
+  margin: auto 0.5em;
 }
 .change-link a {
-  color:  hsl(245, 75%, 52%);
+  color: hsl(245, 75%, 52%);
 }
 .payment-btn {
   background-color: hsl(245, 75%, 52%);
@@ -87,7 +87,7 @@ border-top-right-radius: 20px;
   margin: 8px;
 }
 .btn {
-  font-family: 'Red Hat Display', sans-serif;
+  font-family: "Red Hat Display", sans-serif;
   display: block;
   margin-left: auto;
   margin-right: auto;
